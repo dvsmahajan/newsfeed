@@ -3,30 +3,44 @@
     {
       "Starting": [
         {
+          "courseName": "Frameworks(Hibernate,Spring)",
+          "startDate": "09-02-2019",
+          "time": "9:30 AM",
+          "type": "Starting",
+          "facultyName": "Devendra"
+        },
+        {
+          "courseName": "Angular 6",
+          "startDate": "09-09-2019",
+          "time": "9:30 AM",
+          "type": "Starting",
+          "facultyName": "Srinivas"
+        }
+      ]
+    },
+    {
+      "Started": [
+        {
           "courseName": "SQL",
           "startDate": "02-02-2019",
           "time": "11:00 AM",
-          "type": "Starting",
+          "type": "Started",
           "facultyName": "Varun"
         },
         {
           "courseName": "REST",
           "startDate": "02-02-2019",
           "time": "2:00 PM",
-          "type": "Starting",
+          "type": "Started",
           "facultyName": "Arun"
         },
         {
           "courseName": "Angular 6",
           "startDate": "04-02-2019",
           "time": "6:00 PM",
-          "type": "Starting",
+          "type": "Started",
           "facultyName": "Arun"
-        }
-      ]
-    },
-    {
-      "Started": [
+        },
         {
           "courseName": "Frameworks(Hibernate,Spring)",
           "startDate": "07-01-2019",
